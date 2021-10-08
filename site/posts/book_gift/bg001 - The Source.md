@@ -5,9 +5,8 @@ page:
   - 1
 tags:
   - neshama
-  - book-gift
 date: 2021-09-23T00:00:00.000Z
-modified: 2021-09-23T12:11:08.163Z
+modified: 2021-10-07T05:04:17.751Z
 ---
 
 ## All change can only happen via יהוה

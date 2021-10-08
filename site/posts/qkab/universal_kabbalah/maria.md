@@ -6,9 +6,8 @@ date: 2021-10-06T04:06:23.352Z
 page:
   - 7
 tags:
-  - universal_kabbalah
   - hexagram
-modified: 2021-10-07T04:18:52.802Z
+modified: 2021-10-07T05:00:30.702Z
 ---
 
 ## THE HEXAGRAM AND HEBRAIC SACRED SCIENCE

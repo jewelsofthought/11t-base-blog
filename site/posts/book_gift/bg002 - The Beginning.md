@@ -10,9 +10,8 @@ ref:
   - perfect
 tags:
   - neshama
-  - book-gift
 date: 2021-08-21T00:00:00.000Z
-modified: 2021-09-23T11:52:47.082Z
+modified: 2021-10-07T05:03:22.924Z
 ---
 
 1. [In the Beginning](#in-the-beginning)
