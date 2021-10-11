@@ -4,7 +4,7 @@ description: Physical, Emotional, Mental, Spiritual
 tags:
   - pardes
 date: 2021-10-08T15:32:28.677Z
-modified: 2021-10-10T13:36:10.806Z
+modified: 2021-10-10T16:40:44.161Z
 ---
 
 ## PEMS-1
@@ -41,6 +41,9 @@ Spiritual:
 Intellectual: kabbalah
 Emotional: journeying
 Physical: network
+Spiritual: Belief in G-d, Encounter with G-d.
+
+## PEMS-4 - 4 domains
 
 ## Fundamental Particles
 
