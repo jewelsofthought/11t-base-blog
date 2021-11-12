@@ -1,13 +1,11 @@
 ---
-title: Universal Kabbalah
+title: Maria - the Prophetess
 author: Leonora Leet
 description: The Key to Hebraic Sacred Science
 date: 2021-10-06T04:06:23.352Z
 page:
   - 7
 tags:
-  - sabbath_star
-  - universal_kabbalah
   - alchemy
   - external
 modified: 2021-11-08T16:04:52.382Z
