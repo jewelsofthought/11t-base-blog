@@ -1,8 +1,8 @@
 ---
-title: Universal Kabbalah - Forward
+title: Forward
 author: Leonora Leet
 description: The Key to Hebraic Sacred Science
-tags: null
+tags: [external]
 modified: 2021-10-07T05:00:47.107Z
 ---
 
