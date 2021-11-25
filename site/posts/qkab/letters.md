@@ -16,3 +16,13 @@ Is not:
 - molecules the sentences
   Humans would be a tome.
   The strings of string theory would be like the sounds from a violin that cause the people to begin to dance!
+
+## Single Letter (Hebrew)
+
+- There are no individual letters in Hebrew, like 'a' or 'I' as in English. This is because it is regarded as a **broken vessel** if it is alone.
+- Every object, everything that exists in the Universe is a manifestation of **Divine Desire**.
+- Dimensions = **Realities**
+  - separated by different relationship with Time.
+- We are consciousnessly aware of being **conscious**
+  - Speculum
+  - self-reflective
