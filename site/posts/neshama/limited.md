@@ -1,14 +1,19 @@
 ---
 title: Limited consciousness
 description: What if our intelligence was limited?
-tags: null
+tags:
+  - consciousness
 date: 2021-11-11T10:41:10.604Z
-modified: 2021-11-11T12:17:54.818Z
+modified: 2021-11-26T08:30:37.054Z
 ---
 
-## Limited
+## (in)Finite Beings
 
 > The intelligence that can conceive of infinite is not necessarily itself infinite!
+
+If we are finite beings (a fact), then no part of our beings can be infinite, meaning that there is obviously a limit to our human intelligence. Even if we could record and retain all human knowledge, it would still be finite. How would we know that we have reached the limit of our "intelligence". How does a child know learn that? By encountering those that know more than him, and hopefully, he can then learn to learn from others. Thus hopefully growing into an adult who can acknowledge his or her limitations, especially in the areas of intelligence! An old adage says that it is only a fool who thinks he has nothing more to learn.
+
+## Finite intelligence
 
 What if our intelligence was limited? Surely, we do not believe that we have infinite intelligence, do we? Even if there are those deluded beings who think that they are or can become, if not gods themselves, at least like gods - they know, in their true hearts, that they are not of infinite intelligence (or infinite anything - except for the "part" that can conceive of the infinite itself) - one has to acknowledge that not everyone has that capacity.
 
@@ -32,7 +37,3 @@ _{As I mentioned - one of its main drives is to (dis)prove the Infinite's existe
 _2. encounter to unify. meet by acceptance and receptiveness; opening oneself to the Truth. Based on a belief in my Father. That He has not abandoned me. That He guides me, and speaks to me all the time, in His language, the language of_ Chashmal _, which can only be heard in silence._
 
 and then fall back. An ever repeating tower of Babel. That, too, is [the cycle that lives in everything](oroborus.html), especially the living. Our breath, the day, the very cosmos itself. The endless cycle of Samsara, gain and loss, expand/contract, transmit/receive.
-
-## 666m
-
-But the descent from 7B to 600m will be catastrophic and will be a stranger to any who dreamt of a world with only 600m people inhabiting it.
