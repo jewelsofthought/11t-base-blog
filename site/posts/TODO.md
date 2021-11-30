@@ -2,7 +2,8 @@
 title: TODO
 tags:
   - todo
-modified: 2021-11-19T16:20:24.096Z
+date: 2021-11-19T16:20:24.096Z
+modified: 2021-11-26T13:44:18.269Z
 ---
 
 # TODO
@@ -47,7 +48,7 @@ lightning-bolt.png - tree of life diagram stuff
     - codependent.html...
 31. systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }
 32. qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}
-33. creation.html - [ qkab/cards.md##desire ] { zero to one }
+33. creation.html - [ qkab/cards.md#desire ] { zero to one }
 
 ---
 

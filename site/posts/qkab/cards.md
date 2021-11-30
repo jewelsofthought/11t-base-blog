@@ -3,7 +3,7 @@ title: "Collection of Pieces:"
 description: Random thoughts
 tags: null
 date: 2021-11-04T15:00:27.882Z
-modified: 2021-11-21T09:05:37.211Z
+modified: 2021-11-30T16:31:30.941Z
 ---
 
 1. [Collection of Pieces:](#collection-of-pieces)
@@ -34,7 +34,10 @@ modified: 2021-11-21T09:05:37.211Z
       3. [Free Choice (Prayer )](#free-choice-prayer-)
       4. [Free Will](#free-will)
    9. [Freedom](#freedom)
-   10. [Thoughts (Personal)](#thoughts-personal)
+   10. [Aware of the Circle (math)](#aware-of-the-circle-math)
+   11. [Arrogance](#arrogance)
+   12. [Compass](#compass)
+   13. [Enlightenment](#enlightenment)
 
 # Collection of Pieces:
 
@@ -257,3 +260,27 @@ There is a difference between the name - which is a pointer - and the actual obj
 > Presuming to be separate entities and sovereign independent beings.
 
 This is the road to narcissism, and megalomania.
+
+## Compass
+
+"Providing people who are lost with a compass is not going to enable them to 'find' themselves. It is like providing a hungry man with a fish - rather provide him with a fishing rod, and a river or ocean filled with fish, and teach him to fish - hoping he won't die of starvation in the meantime! And when the fishing rod breaks, hope that he has caught enough fish to be able to repair it...
+
+Keep it simple. If he is hungry, and you have a fish, let him eat... then teach him to fish (also so that he doesn't have to eat all your fish!).
+
+In the physical world, with a compass we can navigate by the heavenly bodies. What heavenly bodies do we use to navigate in the esoteric world?
+
+What we need is a more truthful map! Then a compass is very useful.
+
+But the story is the same. One has to learn to read the map. In other words, one has to grasp the cosmology within which the map is drawn, what the symbols represent and also the actual language in which it was written - in order to understand where the map fits in relation to the world and the heavens.
+
+In addition, one has to learn how the compass is used in the mapping system - through a similar process...
+
+## Enlightenment
+
+Perhaps another way of describing "enlightenment" is the ability to have greater understanding and insight into the working of the complex system we exist in.
+
+The shame of this present generation is their lack of acknowledgement of the years of exploration into this complexity by those who are genuinely trying to explore its wonder.
+
+Their arrogance is in their thinking that they are the first generation to wrestle with this existential problem - or are the best equipped to find a "solution" to a problem.
+
+A problem that is in fact an intrinsic aspect of the system itself.
