@@ -22,11 +22,12 @@
     </header>
 
     <!--content -->
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-
-      {{ content | safe }}
-    </main>
-
+    <div class="columns is 8 layout-base maxwidth">
+      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+      </main>
+    </div>
+  
     <!--footer -->
     {% include "footer.njk" %}
 
