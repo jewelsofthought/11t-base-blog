@@ -3,11 +3,9 @@ title: Concealing the Concealment
 description: "Murmuring Secrets: Eroticism and Esotericism in Medieval Kabbalah"
 author: Elliot R. Wolfson
 tags:
-  - neshama
-  - judaica
   - external
 date: 2021-12-01T18:39:50.132Z
-modified: 2021-12-05T18:10:09.647Z
+modified: 2021-12-08T15:42:49.648Z
 ---
 
 ## MURMURING SECRETS: EROTICISM AND ESOTERICISM IN MEDIEVAL KABBALAH

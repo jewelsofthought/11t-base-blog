@@ -2,10 +2,9 @@
 title: Path of Blessing or Curse
 tags:
   - external
-  - judaica
 url: https://fgbt.org/Lessons/how-to-choose-the-path-of-blessing-or-curse.html
 date: 2021-10-08T16:17:59.290Z
-modified: 2021-11-18T09:13:51.618Z
+modified: 2021-12-08T15:43:31.803Z
 ---
 
 ## How to Choose the Path of Blessing or Curse by Messianic Bibles

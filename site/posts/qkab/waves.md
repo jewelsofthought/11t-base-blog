@@ -4,7 +4,7 @@ description: Frequency, vibrations, waves - and the included middle.
 tags:
   - systems
 date: 2021-11-19T15:49:29.346Z
-modified: 2021-11-19T16:21:16.256Z
+modified: 2021-12-08T13:55:33.888Z
 ---
 
 1. [Wave/Particle](#waveparticle)
@@ -25,4 +25,4 @@ The particle represents the intention, which sets the direction of the vector.
 
 It is always in flux, always in motion. "The river of time continues to flow, and will continue to flow until the end of existence".
 
-![Included middle - wave/particle diagram](/img/qkab/included_middle.drawio.png)
+![Included middle - wave/particle diagram](/site/posts/img/qkab/included_middle.drawio.png)

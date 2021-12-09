@@ -6,7 +6,7 @@ tags:
   - external
   - judaica
 date: 2021-10-24T13:26:52.768Z
-modified: 2021-11-25T14:16:52.310Z
+modified: 2021-12-08T15:45:18.431Z
 ---
 
 1. [Notes on The Path of Blessing](#notes-on-the-path-of-blessing)

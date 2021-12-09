@@ -3,8 +3,8 @@ title: Sacred Geometry
 url: http://www.astronargon.us/Sacred%20Geometry%20Primer.pdf
 description: Values
 tags: null
-date: null
-modified: 2021-12-02T11:07:54.855Z
+date: 2021-12-02T11:07:54.855Z
+modified: 2021-12-08T15:43:58.140Z
 ---
 
 1. [Sacred Geometry Primer](#sacred-geometry-primer)
