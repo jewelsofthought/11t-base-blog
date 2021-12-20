@@ -9,7 +9,6 @@ pagination:
     - post
     - posts
     - tagList
-    - neshama
   addAllPagesToCollections: true
 layout: layouts/home.njk
 eleventyComputed:
@@ -22,3 +21,4 @@ permalink: /tags/{{ tag | slug }}/
 {% include "postslist.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
+
