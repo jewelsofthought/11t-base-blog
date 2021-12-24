@@ -25,7 +25,7 @@ templateClass: tmpl-post
     <div class="is-pulled-right">
       <a href="{{ tagUrl | url }}">
         <span class="tag is-light is-small">
-          <span class="fa fa-tag"></span>
+          <span class="fa fa-tag"></span>&nbsp;
           {{ tag }}
         </span>
       </a>
@@ -40,16 +40,15 @@ templateClass: tmpl-post
       <h3>Description:</h3>
       <p>{{ description }}</p>
     {%- endif %}
-
     <div class="main-content">
       {{ content | latex | safe }}
     </div>
-
-   var post = { 
+    
+    var post = { 
       'nURL': nextURL, 
       'nTitle': nextTitle, 
       'pURL': prevURL, 
-      'pTitle': prevTitle 
+      'pTitle: prevTitle 
     };
     {%- if collections.posts %}
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
@@ -59,14 +58,14 @@ templateClass: tmpl-post
         {%- set nTitle = nextPost.data.title %}
       {%- endif %}
 
-      {%- if previousPost and not pURL %}
-        {%- set pURL = previousPost.url %}
-        {%- set pTitle = previousPost.data.title %}
-      {%- endif %}
+    {%- elif previousPost and not pURL %}
+      {%- set pURL = previousPost.url %}
+      {%- set pTitle = previousPost.data.title %}
+    {%- endif %}
   
     <hr>
     <ul>
-      {%- if nURL and nTitle %}<li>Next: <a href="{{ nURL | url }}">{{ nTitle }}</a></li>{% endif %}
+      {%- if nURL and nTitle %}<li>Next: <a href="{{ nURL | url }}">{{ nextTitle }}</a></li>{% endif %}
       {%- if pURL and pTitle %}<li>Previous: <a href="{{ pURL | url }}">{{ pTitle }}</a></li>{% endif %}
     </ul>
     {%- endif %}
