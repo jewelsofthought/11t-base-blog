@@ -45,12 +45,6 @@ templateClass: tmpl-post
       {{ content | latex | safe }}
     </div>
 
-   var post = { 
-      'nURL': nextURL, 
-      'nTitle': nextTitle, 
-      'pURL': prevURL, 
-      'pTitle': prevTitle 
-    };
     {%- if collections.posts %}
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
