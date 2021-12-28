@@ -4,8 +4,13 @@ author: Aviva Zornberg
 description: The Mirror of Redemption
 tags: null
 date: 2021-12-26T14:51:07.321Z
-modified: 2021-12-26T18:49:24.348Z
+modified: 2021-12-27T08:50:46.274Z
 ---
+
+1. [Fit for Redemption? The Human Context](#fit-for-redemption-the-human-context)
+   1. [Israel and Egypt: The Mosaic Distinction](#israel-and-egypt-the-mosaic-distinction)
+   2. ["And they swarmed... &mdash;Blessings or Critique?](#and-they-swarmed-blessings-or-critique)
+   3. [Anonymity and Silence](#anonymity-and-silence)
 
 ## Fit for Redemption? The Human Context
 
@@ -48,3 +53,15 @@ The names that begin&mdash;and entitle&mdash; the book are a marker for loss, as
 Another feature of the "anonymity" is the silence of all the voices but Pharaoh's. Implicit in the "swarming" modality is a vision of a primal, pre-linguistic stage of evolution, of masses of proliferating, reptilian creatures, who utter no response to Pharaoh's scheme, but move in a compelled surge towards the abyss. Language has failed; even the suffering, the harsh labour, the bitterness of their lives elicits on protest, not even an audible groan&mdash;no expression of awareness, of memory, outrage or hope.
 
 In this silence, the paradox of fertility is emphasised: "the more they were oppressed, the more they increased (_ken yirbeh_) and spread out, so that the Egyptians were sickened by the Israelites" (1:12). To the Egyptians, there is someting repulsive about the silent fecundity of the people. Contrary to normal behaviour patterns, harsh treatment, exhaustion, the unbearable weight of Egypt's burdens only serve, apparently, to make them reproduce more rapidly. Human language, Pharaoh's monologue against live, is challenged by the unheard word of God, working through unconscious flesh.
+
+### The Midwives Rebellion
+
+Emerging from the anonymous, silent masses, ambiguous in their identity (midwives to Hebrew women, or Hebrew midwives), they are the first to speak back to Pharaoh. They stand up&mdash;to pharaoh&mdash;and thus are named. What compells them to speak is their disobedience to Pharaoh's decree. "When you deliver the Hebrew women, look at the birthstool. If it is a boy, kill him; if it is a girl, _vachaya_&mdash;"let her be, let her live" [1:16].) This is a _gezera_, an edict: unequivocal, surgical in its categorization of possibilities. The pivotal verb is "look". The Pharaoh commands them to _see difference_, to analyse the situation at the very thrust of birth. This kind of seeing&mdash;boy/girl; death/life&mdash;is essential to the mode of _gezera_, edict. It is rooted in the verb "to cut", as in separation, difference, analysis.
+
+The midwives disobedience is described with an idiom that has never before appeared in the Torah in this form: "they feared God." Abraham is called a God-fearing person (Gen 22:12). The midwives, however, enact fear of God: the "do" it. It conveys the sense of a moral act, "not to do what the Egyptian king had told them; they let the boys live" (1:18). This active "fearing God" is a refusal to see as Pharaoh sees, to "look" differently. It is a classic, heroic response to tyrants. The very extremity of the edict forces a new moral vision upon the midwives, a radical choice between life and death. Disobedience to Pharaoh becomes more than merely a refusal to kill, it becomes a total dedication to nourishing life. The narrative has conveyed, in mid-flight&mdash;the very moment of "fearing God"&mdash;its free assumption of responsibility.
+
+Pharaoh then reproaches them, not with negligence, but with preserving life. This is the point at which the first words of resistance in Exodus are spoken. Against the absurd reproach of the Pharaoh ("Why have you done this thing...?") against the unself-conscious brutality of the Pharoah's implicit question: "Why life?", they answer: "They (the Hebrew women) are vigorous"&mdash;_chayoth_, lively. "The women are alive. Before the birth-aide can arrive, they give birth".
+
+Some radical, irreducible confrontation is marked in these first words against Pharaoh. To speak against the _gezera_ is, in a real sense, impossible. The only appropriate response is silence. To utter words is to create an alternative world, a world of undifferentiated life. This is the claim of the midwives: the Hebrew women are _not like_ the Egyptian women. An alternative realm to Pharoah's "Egyptian" realm is sketched in their words. In this realm, life and birth happen irrepressibly.
+
+### Moses' Early Life
