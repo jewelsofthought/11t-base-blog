@@ -1,10 +1,9 @@
 ---
 title: Dawn
 description: Awakening at Dawn...
-tags:
-  - personal
+tags: null
 date: 2021-12-31T13:49:20.067Z
-modified: 2021-12-31T13:49:23.927Z
+modified: 2022-01-02T10:12:37.469Z
 ---
 
 Awaking at dawn for no reason, l realize why we wake just before dawn to say the morning prayers. It is the time when the light first enters the darkness and parallels the creation which contains the mystery of the light and darkness, speaking of the darkness as that which existed before creation, and the light as the expression of the vitality of the Presence. This principle is of the highest order, in that the Presence does not move, or express itself in any form or fashion that we might be capable of comprehending. Only a quality, or appellation of Its presence could we ever comprehend, or indeed, even experience.

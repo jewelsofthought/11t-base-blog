@@ -1,10 +1,9 @@
 ---
 title: Dear Rav Green
 description: Asking a Rabbi for help.
-tags:
-  - personal
+tags: null
 date: 2021-10-26T21:18:01.910Z
-modified: 2021-11-15T12:10:58.895Z
+modified: 2022-01-02T10:29:16.621Z
 ---
 
 Dear Rav Green,
