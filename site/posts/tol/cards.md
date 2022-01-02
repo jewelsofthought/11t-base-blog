@@ -1,9 +1,10 @@
 ---
-title: Thoughts & Ideas
-description: Tree of Life Network ideas
-tags: null
+modified: 2022-01-02T07:06:17.318Z
+---
+
 date: 2021-11-11T10:38:07.290Z
-modified: 2021-12-20T08:14:48.621Z
+modified: 2022-01-01T14:25:09.261Z
+
 ---
 
 1. [Sovereignty ~ empowerment](#sovereignty--empowerment)
@@ -12,7 +13,11 @@ modified: 2021-12-20T08:14:48.621Z
 3. [Power & Governance](#power--governance)
 4. [Governance in the global space.](#governance-in-the-global-space)
 5. [666m (cov-19)](#666m-cov-19)
-6. [Graphs and Networks](#graphs-and-networks)
+6. [Fish](#fish)
+
+## Systems (old)
+
+All dynamic/moving systems are alive. If a system never changes, then it is dead. If a food can stand open for a long time, then it is dead. All static, absolute, unmoving systems are dead. Thus sterilized systems or pasteurised food stuffs are often life depleting. Though there is must support and nourishment that a dead tree or animal provides the living creature of the forest.
 
 ## Sovereignty ~ empowerment
 
@@ -43,3 +48,19 @@ Our greatest challenge is not the risk of environmental collapse, resource wars,
 ## 666m (cov-19)
 
 But the descent from 7B to 666m will be catastrophic and will be a stranger to any who dreamt of a world with only 666m people inhabiting it.
+
+## Fish
+
+Like a school of fish, all travelling in the same direction. But what position any particular fish takes, or when or why is unclear.
+
+- Highly complex and time consuming to reconstruct.
+- Use "wave dynamics to cause it to flow over like a wave
+  - Amplitude, speed, frequencey, phase angle...
+- How many variables?
+  - Indexer does not have to calculate.
+  - It just keeps the waves flowing
+- Source
+  - When the wave leaves its source, each element reacts according to its state.
+  - The next one will know it and reject and begin reset.
+  - Traverses as far as it needs
+    or exits with error.

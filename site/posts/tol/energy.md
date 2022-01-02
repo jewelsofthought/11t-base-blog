@@ -6,7 +6,7 @@ tags:
   - m&f
   - qkab
 date: 2021-10-12T18:17:11.615Z
-modified: 2021-10-20T11:21:22.003Z
+modified: 2021-12-31T13:54:02.207Z
 ---
 
 1. [Fundamental property](#fundamental-property)
@@ -21,6 +21,7 @@ modified: 2021-10-20T11:21:22.003Z
 8. [Human measurement](#human-measurement)
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
+9. [Energy](#energy)
 
 ## Fundamental property
 
@@ -108,4 +109,14 @@ Thus the more subtle the wave/sensation, the more sensitive a measuring instrume
 
 When a wave becomes **entangled** (either with enough other waves) or a "standing wave" or particle/object, then it is recognised as a particle. And we call it "the collapse of the wave (function)". Thus a wave can only be "experienced/measured" when it interacts with something, and causes some change in the state of the "observer" (or object of or under investigation).
 
--
+## Energy
+
+> Energy that does not have form cannot be represented in this world. It can only be recognised through its interaction with some other "form".
+
+It is only mathematics that is able to represent or describe this energies that do not have a manifest form like gravity or electricity. However, in the latter case there seems to be a form or order inherent in the energy&mdsh;a form which is itself only probable&mdash;which we can conveniently refer to as packets, or, as the wont is nowadays, quanta. Thus we intrinsically believe that there will be a similar form for Gravity. Though what if there is not? For all of this has been created not just for God's or our pleasure, but for our learning. Somehow, we were lost, or, as we refer to it biblically, fallen. Perhaps we are errant souls or expressions of some desire for self identity existing in the plurema. However that may be, we are here and dream always of the world to come in which the evil that roams the world will have been banished or demolished. And perhaps gravity will be a koan to lead science deeper into the mystery of creation.
+
+The only way we are made to be aware of this subtler energy is through its effect.
+
+The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, and it's one that vivifies everything, and we call it life when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. So, they are in some sense alive.
+
+---

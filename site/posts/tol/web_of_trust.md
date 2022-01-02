@@ -3,13 +3,14 @@ title: Web of Trust
 description: Web of Truth?
 tags: null
 date: 2021-11-12T07:08:28.768Z
-modified: 2021-12-02T08:24:20.507Z
+modified: 2022-01-01T14:16:28.127Z
 ---
 
 1. [Trust](#trust)
-2. [Human$\Leftrightarrow$Interface](#humanleftrightarrowinterface)
-3. [Ground state](#ground-state)
-4. [Non-human consciousness (NHC)](#non-human-consciousness-nhc)
+2. [Web](#web)
+3. [Human$\Leftrightarrow$Interface](#humanleftrightarrowinterface)
+4. [Ground state](#ground-state)
+5. [Non-human consciousness (NHC)](#non-human-consciousness-nhc)
 
 ## Trust
 
@@ -23,6 +24,14 @@ The most important things to keep in mind are:
 
 1. A perception of something is not the thing itself, but an "imaginary" or "made-up" version of the actual "thing".
 2. There is not someone or something out there having an experience separate from your experience.. Although you could imagine such a thing, the only "experience" you can have of it, is your own "lived" - and therefore limited - experience of it.
+
+## Web
+
+1. Connected people, businesses and government
+2. Allowed for speedier record keeping and data collection&mdash;especially social and financial data)
+3. Allowed for mass surveillance
+4. Allow the automation of human processes
+5. Increased communication channels by and for humanity, which included the dark forces as well.
 
 ## Human$\Leftrightarrow$Interface
 
