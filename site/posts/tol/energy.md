@@ -6,7 +6,7 @@ tags:
   - m&f
   - qkab
 date: 2021-10-12T18:17:11.615Z
-modified: 2021-12-31T13:54:02.207Z
+modified: 2022-01-03T16:51:35.956Z
 ---
 
 1. [Fundamental property](#fundamental-property)
@@ -15,13 +15,14 @@ modified: 2021-12-31T13:54:02.207Z
 4. [Dynamic principle of Evil](#dynamic-principle-of-evil)
 5. [Form](#form)
 6. [Force](#force)
-7. [Measurement](#measurement)
+7. [Two states](#two-states)
+8. [Measurement](#measurement)
    1. [Real](#real)
    2. [Virtual](#virtual)
-8. [Human measurement](#human-measurement)
+9. [Human measurement](#human-measurement)
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
-9. [Energy](#energy)
+10. [Energy](#energy)
 
 ## Fundamental property
 
@@ -66,6 +67,11 @@ One of the most effective tools of the _Sitra Ahara_, the "Other Side", Satan, i
 ## Force
 
 - energy in (linear) movement.
+
+## Two states
+
+(from EnEx 20200802)
+In energy there are two states: at rest, or potential energy; and dynamic, doing work, or power. Just as with stores of value. This money is at rest, static, until it is "moves", ie. is used to financially power some event. This is where it connects to SOA, or microservices, architecture. Making it actually data driven is perfect to adapt it to a social governing framework, it which decisions which impact people have to be made.
 
 ## Measurement
 
