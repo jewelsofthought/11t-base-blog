@@ -3,7 +3,7 @@ title: Together we stand
 description: There is both the dark and the light side of everything
 tags: null
 date: 2022-01-04T15:37:15.102Z
-modified: 2022-01-04T17:22:21.785Z
+modified: 2022-01-04T17:57:52.860Z
 ---
 
 ## Together We Stand
@@ -37,9 +37,13 @@ P: Why show me the path, and then I die with never having revealed it? It is the
 Any action, just by living, we affect the environment. With this mass of people, anything we do at scale will significantly affect the environment - generally detrimentally.
 
 By nourishing ourselves&mdash;our own needs&mdash;, and using that energy - living energy - we deplete resources. We need energy to live. We require energy for movement. In order to obtain that energy, we deplete resources.
-Energy only appears when there is a differential - which means one gets nourished, while the other becomes depleted.[quadrant](quadrant.html){Depending in which quadrant you stand, one pair will be supportive, the other detrimental to the one in the quadrant.
+Energy only appears when there is a differential - which means one gets nourished, while the other becomes depleted.
+
+## Quadrant
+
+Depending in which quadrant you stand, one pair will be supportive, the other detrimental to the one in the quadrant.
 
 The quadrant consists of "more/less", "increase/decrease".
 
 Only at close to the maximum of "more", is decrease a positive. Any other place, an increase is good... unless what is being increased is not good!
-Then increase is a negative.}
+Then increase is a negative.
