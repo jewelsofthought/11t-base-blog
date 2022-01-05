@@ -3,7 +3,7 @@ title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
 date: 2021-11-11T10:38:07.290Z
-modified: 2022-01-05T10:28:39.025Z
+modified: 2022-01-05T10:38:01.474Z
 ---
 
 1. [Systems (old)](#systems-old)
@@ -15,6 +15,8 @@ modified: 2022-01-05T10:28:39.025Z
 6. [666m (cov-19)](#666m-cov-19)
 7. [Fish](#fish)
 8. [Seeding](#seeding)
+9. [Great Pirates](#great-pirates)
+10. [Information scarcity](#information-scarcity)
 
 ## Systems (old)
 
@@ -75,3 +77,21 @@ The health of any forest is determined both by the health of its trees, that is 
 It is said that in healthy forest ecosystems, they will communicate events between one another... and the receiver will begin to react to this information.
 
 In human terms, the individual is the seed, he (hopefully) grows into a healthy adult, who becomes a productive member of his community, which (hopefully) co-exists in a symbiotic manner with the communities around.
+
+## Great Pirates
+
+Bucky F. talked about the Great Pirates of yore. I think these pirates have reached a new level. It has become simply a protection racket. When in a land of gangsterism, the only choice a normal person has is to choose - is which gang to become part of.
+
+Gangs seem to be the natural form of authority that arises when there is no other.
+
+However, there is a newer, more conscious version of this that is arising, albeit rough and still in its infancy. We refer to it as social networks - also referred to as networks of affinity. Where people of like minds share and collaborate.
+
+That is, if he is lucky enough to have a choice, which is actually why we refer to them as gangs - as they generally do not give one a choice - and use whatever means necessary, even killing, to achieve their goals. So what choice do you really have?
+
+And why are many aspects of the legal version of this any different? Especially for those of us who have had the experience of an army - whether as a soldier or a civilian.
+
+## Information scarcity
+
+What I have noticed in the last years, is that the information freely available is becoming scarcer. This was not done by privatising the internet, by rather by privatising the information available on the public net. Once again, producing control of the information by the elite. But it did not end there. Then began the campaign to discredit the public source of information. This was done by polluting the information that was flowing along the public channel.
+
+An unintended effect of this, or perhaps it is an intended one, is that idiotic news appeals to idiots, and this generally starts a popular movement - any meme to express the outrage and frustration endemic amongst the oppressed underclass. Remember, the underclass does not necessarily have to oppressed. In fact, they are often the unsung heroes of many a triumph, with their quiet solitude and desire to just have a peaceful and happy life - not striving as those who already have too much seem to be constantly doing.
