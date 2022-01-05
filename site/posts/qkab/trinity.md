@@ -3,7 +3,7 @@ title: Trinity - Triangle
 description: The 3-some.
 tags: null
 date: 2021-10-11T08:26:35.929Z
-modified: 2021-11-26T11:03:01.281Z
+modified: 2022-01-05T18:38:31.882Z
 ---
 
 1. [Stillness](#stillness)
@@ -31,11 +31,11 @@ Only form can deplete energy as well. In fact, it needs to consume energy to sta
 
 ### Three's
 
-3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; pro, anti, on the fence; beginning (1), end (infinity), middle (which forms the bulk).
+3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; pro, anti, on the fence; beginning ($1$), end ($\infty$), middle&mdash;which is everything inbetween, and forms the "visible" segment.
 
 One could also term in masculine, feminine, and the [Vesica Pisces](vesica_pisces.html) as the interface described between the two.
 
-Two ways to deal with the middle: Excluded middle (used mainly in mathematics, and logic, and fascist regimes), or the included middle.
+Two ways to deal with the middle: [Excluded middle](/posts/qkab/middle/) (used mainly in mathematics, and logic, and fascist regimes), or the [included middle](/posts/qkab/middle/).
 
 However, the boundaries of the space are defined (expressed) by the extremes (or the limits/boundaries). Thus is it the extremists, what we call the fanatics, or zealots, that pull society this way or that.
 

@@ -3,7 +3,7 @@ title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
 date: 2021-11-11T10:38:07.290Z
-modified: 2022-01-05T10:38:01.474Z
+modified: 2022-01-05T11:15:48.841Z
 ---
 
 1. [Systems (old)](#systems-old)
@@ -14,9 +14,12 @@ modified: 2022-01-05T10:38:01.474Z
 5. [Governance in the global space.](#governance-in-the-global-space)
 6. [666m (cov-19)](#666m-cov-19)
 7. [Fish](#fish)
-8. [Seeding](#seeding)
-9. [Great Pirates](#great-pirates)
-10. [Information scarcity](#information-scarcity)
+8. [Great Pirates](#great-pirates)
+9. [Information scarcity](#information-scarcity)
+
+## Specialisation
+
+Specialisation produces a web of Inter-dependencies
 
 ## Systems (old)
 
@@ -67,8 +70,6 @@ Like a school of fish, all travelling in the same direction. But what position a
   - The next one will know it and reject and begin reset.
   - Traverses as far as it needs
     or exits with error.
-
-## Seeding
 
 I have been trying to build the tree from the top down, starting at the root and spreading out from there. The actual way that it needs to be expressed is each individual as a seed, that grows into a tree, that becomes a forest... connecting to all the other "forests" out there.
 
