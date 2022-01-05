@@ -3,7 +3,7 @@ title: Pure Narcissism
 description: Deep dive into ancient texts
 tags: null
 date: 2021-10-14T08:41:50.219Z
-modified: 2021-11-21T09:06:26.901Z
+modified: 2022-01-05T18:51:01.555Z
 ---
 
 1. [Pure Narcissism](#pure-narcissism)
@@ -36,7 +36,7 @@ In my investigations into the material is identification of other as self. An em
 
 ## Vibrational space
 
-If God spoke to us it would be with a wave/vibration. In it’s most basic form, all it needs is to be different, and then there can be communication.”Speaks/waters” . Need to hear the [Chashmal](./chashmal.md). “Feel” the electricity (in the air) when there is excitement => eroticism (excitement/fear -> awe/fear).
+If God spoke to us it would be with a wave/vibration. In it’s most basic form, all it needs is to be different, and then there can be communication.”Speaks/waters” . Need to hear the [Chashmal](/posts/qkab/chashmal/). “Feel” the electricity (in the air) when there is excitement => eroticism (excitement/fear -> awe/fear).
 
 Imagine there was a vibrational frequency in the universe that we could reach, but not our instruments. Think of our instruments to measure and read this interaction – which on the most subtle level we call entanglement. They are human made, and thus suffer the imperfections and limitations of humans. Whereas we are divinely constructed, or at very least constructed by the same mind/ability, whether “nature” or something else, to be able to detect subtle frequencies that we cannot build machines to detect. -----> **Merkavah**.
 
