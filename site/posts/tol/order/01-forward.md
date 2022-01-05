@@ -4,7 +4,7 @@ description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
 tags: null
 author: Alvin Toffler
 date: 2021-12-20T08:20:16.830Z
-modified: 2021-12-31T13:41:01.133Z
+modified: 2022-01-05T19:05:52.934Z
 ---
 
 ## SCIENCE AND CHANGE
@@ -126,7 +126,7 @@ What the authors are proposing, therefore, is a vast synthesis that embraces bot
 macroscopic phenomena, but at the most minute level as well.
 It is a breathtaking attempt at "putting the pieces back together again." The argument is complex, but it flashes with fresh insight and suggests a coherent way to relate seemingly unconnected&mdash;even contradictory&msdash;philosophical concepts.
 
-Here we begin to glimpse, in full richness, the monumental synthesis proposed in these pages. By insisting that irreversible time is not a mere aberration, but a characteristic of much of the universe, they subvert classical dynamics. For Prigogine and Stengers, it is not a case of [either/or](middle_way.html). Of course, reversibility still applies (at least for sufficiently long times) but in closed systems only. Irreversibility applies to the rest of the universe.
+Here we begin to glimpse, in full richness, the monumental synthesis proposed in these pages. By insisting that irreversible time is not a mere aberration, but a characteristic of much of the universe, they subvert classical dynamics. For Prigogine and Stengers, it is not a case of [either/or]([/posts/qkab/middle/). Of course, reversibility still applies (at least for sufficiently long times) but in closed systems only. Irreversibility applies to the rest of the universe.
 
 Prigogine and Stengers also undermine conventional views of thermodynamics by showing that, under nonequilibrium conditions, at least, entropy may produce, rather than degrade, order, organization&msdash;and therefore life.
 
