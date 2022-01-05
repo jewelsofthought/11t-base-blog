@@ -1,19 +1,20 @@
 ---
-modified: 2022-01-02T07:06:17.318Z
----
-
+title: Various Thoughts
+description: Miscellaneous ideas
+tags: null
 date: 2021-11-11T10:38:07.290Z
-modified: 2022-01-01T14:25:09.261Z
-
+modified: 2022-01-05T10:28:39.025Z
 ---
 
-1. [Sovereignty ~ empowerment](#sovereignty--empowerment)
-2. [Bridging](#bridging)
+1. [Systems (old)](#systems-old)
+2. [Sovereignty ~ empowerment](#sovereignty--empowerment)
+3. [Bridging](#bridging)
    1. [Between two worlds](#between-two-worlds)
-3. [Power & Governance](#power--governance)
-4. [Governance in the global space.](#governance-in-the-global-space)
-5. [666m (cov-19)](#666m-cov-19)
-6. [Fish](#fish)
+4. [Power & Governance](#power--governance)
+5. [Governance in the global space.](#governance-in-the-global-space)
+6. [666m (cov-19)](#666m-cov-19)
+7. [Fish](#fish)
+8. [Seeding](#seeding)
 
 ## Systems (old)
 
@@ -64,3 +65,13 @@ Like a school of fish, all travelling in the same direction. But what position a
   - The next one will know it and reject and begin reset.
   - Traverses as far as it needs
     or exits with error.
+
+## Seeding
+
+I have been trying to build the tree from the top down, starting at the root and spreading out from there. The actual way that it needs to be expressed is each individual as a seed, that grows into a tree, that becomes a forest... connecting to all the other "forests" out there.
+
+The health of any forest is determined both by the health of its trees, that is the health of its members, and the environment in which they grow. As well as the environment around the forest, with the climate, the rain, and the other factors that sustain a healthy forest.
+
+It is said that in healthy forest ecosystems, they will communicate events between one another... and the receiver will begin to react to this information.
+
+In human terms, the individual is the seed, he (hopefully) grows into a healthy adult, who becomes a productive member of his community, which (hopefully) co-exists in a symbiotic manner with the communities around.
