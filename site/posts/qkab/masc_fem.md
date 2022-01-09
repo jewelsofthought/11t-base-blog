@@ -9,7 +9,7 @@ ref:
 tags:
   - m&f
 date: 2021-11-17T18:23:23.287Z
-modified: 2022-01-05T19:06:40.862Z
+modified: 2022-01-06T17:56:11.129Z
 ---
 
 1. [Masculine & Feminine](#masculine--feminine)
@@ -18,8 +18,6 @@ modified: 2022-01-05T19:06:40.862Z
    3. [Upper & Lower](#upper-and-lower)
    4. [Roles](#roles)
    5. [Desire for Power](#desire-for-power)
-
-# Masculine & Feminine
 
 ## Male & Female
 
@@ -76,4 +74,4 @@ Love, too, needs constant nourishment, though we know that material things are n
 ![transformation - from energy to form](/posts/img/tol/fn-mf.png)
 _The female transforms the male energy into form_
 
-However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. {anaerobic - no oxygen}. Think of under-utilised electrical energy&mdash;like a fully charged battery.
+However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
